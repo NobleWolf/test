@@ -7,7 +7,7 @@ print 'Number os arguments: ', len(sys.argv)
 print 'Argument List: ', str(sys.argv)
 print prgmlst
 
-memsize = 512
+memSize = 512
 
 class programList:
     prgmOrderNum = []
